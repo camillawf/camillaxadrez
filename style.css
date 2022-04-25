@@ -1,0 +1,36 @@
+div.container{
+  width:34vw;
+  height:56vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  min-width: 15vw;
+  min-height: 15vh;
+  border: 0.8vw solid black;
+}
+div.white{
+  width: 12.5%;
+  height:100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+div.black {
+  width:12.5%;
+  height:100%;
+  background-color:black;
+  display:flex;
+  color:white;
+  align-items: center;
+  justify-content: center;
+ }
+.linhas{
+  height: 12.5%;
+  width: 100%;
+  display: flex;
+}
+img{
+  height: 80%;
+  width: 80%;
+}
